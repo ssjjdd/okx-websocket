@@ -1,2 +1,2 @@
 # okx-websocket
-okx通过ws获取行情
+okx通过websocket获取行情的例子
